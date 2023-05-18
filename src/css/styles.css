@@ -1,0 +1,110 @@
+#location{
+  outline: none;
+  padding: 10px;
+}
+.user-input{
+  padding-left: 300px;
+  padding-top: 100px;
+}
+#weatherLocation{
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  width: 9rem;
+  height: 3rem;
+  border-radius: 5px;
+}
+.result{
+  width: 100%;
+  height: 250px;
+  display: flex;
+  margin-top: 50px;
+  background-color: darkorange;
+  
+}
+.definition{
+  width: 300px;
+  height: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: black;
+  background-color: white;
+}
+.similarities{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 300px;
+  height: 200px;
+  color: black;
+  background-color: white;
+}
+.example{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 300px;
+  height: 200px;
+  color: black;
+  background-color: white;
+}
+.part-of-speech{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 300px;
+  height: 200px;
+  color: black;
+  background-color: white;
+}
+.text1{
+  color: black;
+  font-size: 20px;
+  margin-left: 50px;
+  
+}
+.text2{
+  color: black;
+  font-size: 20px;
+  margin-left: 50px;
+  
+}
+.text3{
+  color: black;
+  font-size: 20px;
+  margin-left: 50px;
+  
+}
+.text4{
+  color: black;
+  font-size: 20px;
+  margin-left: 50px;
+  
+}
+.definition1{
+  margin-left: 10px;
+}
+.definition2{
+  margin-left: 10px;
+}
+.synonyms{
+  margin-left: 10px;
+}
+.antonyms{
+  margin-left: 10px;
+}
+.example1 .example2{
+  margin-left: 10px;
+}
+.PartofSpeech{
+  margin-left: 10px;
+}
+.head{
+  width: 350px;
+  height: 100px;
+  font-size: 30px;
+  background-color: blueviolet;
+  color: white;
+  padding-top: 25px;
+  padding-left: 30px;
+  margin-top: 50px;
+  margin-left: 380px;
+  border-radius: 10px;
+}
